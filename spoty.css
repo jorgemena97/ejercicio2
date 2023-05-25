@@ -1,0 +1,260 @@
+* {
+    margin: 0;
+    padding: 0;
+
+    }
+
+.playlist {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+}
+
+.nombre-playlist {
+    display: flex;
+    align-items: flex-end;
+
+}
+
+.imagen-lista img {
+    width: 280px;
+
+}
+
+.info-playlist {
+    margin-left: 40px;
+}
+
+.back
+{
+    background-color: yellow;
+}
+
+.lista-titulos {
+    margin: 10px;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    background-color: yellow";
+}
+
+.numro-cancion {
+    display: flex;
+    margin-right: 10px;
+    justify-content: space-around;
+
+}
+
+
+
+.pista1 img
+
+{
+width: 60px;
+height: 60px;
+margin-left: 10px;
+
+}
+
+.pista1
+{
+display: flex;
+margin: 15px;
+
+
+}
+.pis
+{
+margin-top: 20px;
+
+}
+.cristina
+{
+margin-left: 10px;
+
+}
+.album1
+{
+margin-left: 244px;
+margin-top:  12px;
+
+}
+.hace1
+{
+margin-left: 220px;
+margin-top: 12px;
+}
+.duracion
+{
+    margin-left: 270px;
+    margin-top: 12px;
+}
+.color
+{
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+}
+
+.pista2
+{
+display: flex;
+margin: 15px;
+} 
+
+.pista2 img
+
+{
+width: 60px;
+height: 60px;
+margin-left: 10px;
+}
+
+.pis2 
+{
+margin-top: 20px;
+margin-left: 7px;
+}
+
+.sola
+{
+margin-left: 10px;}
+
+.album2
+{
+margin-left: 280px;
+margin-top:  12px;
+}
+.hace2
+{
+margin-left: 270px;
+margin-top: 12px;
+}
+.duracion2
+{
+    margin-left: 267px;
+    margin-top: 12px;
+}
+.pista2
+{
+display: flex;
+margin: 6px;
+} 
+
+.pista3
+{
+    display: flex;
+    margin: 15px;
+    
+}
+.pista3 img
+
+{
+width: 60px;
+height: 60px;
+margin-left: 10px;
+}
+
+.pist3 
+
+{
+margin-top: 20px;
+}
+.leyenda
+{
+margin-left: 10px;
+}
+.album3
+{
+margin-left: 280px;
+margin-top:  12px;
+}
+.hace3
+{
+    margin-left: 150px;
+    margin-top: 12px;
+    }
+
+    .duracion3
+    {
+        margin-left: 269px;
+        margin-top: 12px;
+    } 
+    .pista4
+{
+    display: flex;
+    margin: 15px;
+    
+}
+.pista4 img
+
+{
+width: 60px;
+height: 60px;
+margin-left: 10px;
+}
+
+.pist4
+
+{
+margin-top: 20px;
+}
+.dinero
+{
+margin-left: 10px;
+}
+.album4
+{
+margin-left: 280px;
+margin-top:  12px;
+}
+.hace4
+{
+    margin-left: 170px;
+    margin-top: 12px;
+    }
+
+    .duracion4
+    {
+        margin-left: 269px;
+        margin-top: 12px;
+    } 
+    .pista5
+    {
+        display: flex;
+        margin: 15px;
+        
+    }
+    .pista5 img
+    
+    {
+    width: 60px;
+    height: 60px;
+    margin-left: 10px;
+    }
+    
+    .pist5
+    
+    {
+    margin-top: 20px;
+    }
+    .somos
+    {
+    margin-left: 10px;
+    }
+    .album5
+    {
+    margin-left: 246px;
+    margin-top:  12px;
+    }
+    .hace5
+    {
+        margin-left: 255px;
+        margin-top: 12px;
+        }
+    
+        .duracion5
+        {
+            margin-left: 260px;
+            margin-top: 12px;
+        } 
+        
+      
